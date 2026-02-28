@@ -6,8 +6,8 @@ Machine Learning
 Exploratory Data Analysis (EDA)
 Visualization Techniques
 
-#🧰 Libraries Used
-##🔢 NumPy
+# 🧰 Libraries Used
+## 🔢 NumPy
 
 Array creation & operations
 
@@ -19,7 +19,7 @@ Indexing & slicing
 
 Statistical functions
 
-##🐼 Pandas
+## 🐼 Pandas
 
 Series & DataFrames
 
@@ -49,7 +49,7 @@ Subplots
 
 Plot customization
 
-##🌊 Seaborn
+## 🌊 Seaborn
 
 Statistical visualizations
 
