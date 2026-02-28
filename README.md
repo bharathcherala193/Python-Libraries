@@ -35,7 +35,7 @@ Data transformation
 
 Reading datasets (CSV, Excel)
 
-##📈 Matplotlib
+## 📈 Matplotlib
 
 Line plots
 
